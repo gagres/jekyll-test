@@ -2,6 +2,7 @@ backend:
   name: github
   repo: gagres/jekyll-test
   branch: master # Branch to update (optional; defaults to master)
+  site_domain: gabriel-my-blog.netlify.app
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
